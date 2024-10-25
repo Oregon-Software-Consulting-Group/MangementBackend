@@ -3,9 +3,16 @@ const faker = require("faker");
 const { Product } = require("./src/models/product");
 const { connectDB, disconnectDB } = require("./src/connectdb")
 
-main().catch((err) => console.log(err));
+const defaultCount = 10
 
-async function main(length=50) {
+count = defaultCount
+if (process.argv.length > 2) {
+    count = parseInt(process.argv[2]) || defaultCount
+}
+
+main(count).catch((err) => console.log(err));
+
+async function main(length) {
     console.log("Connecting to database...");
     await connectDB()
     const sampleProduct = Array.from({ length }, createSampleProductData);

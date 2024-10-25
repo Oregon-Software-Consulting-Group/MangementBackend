@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Run `npm start` to get the server started locally.
+Run `npm start` to get the server started locally. Once that is running, you can access the backend at [http://localhost:5200](http://localhost:5200) locally in your browser.
 
 ## DevContainer
 
@@ -18,4 +18,4 @@ Check out [MongoDB Compass](https://www.mongodb.com/try/download/compass) for a 
 
 ### Sample Data
 
-To insert sample data into the database, run `npm run sample`. This will insert `50` entries into the database using [fakerjs](https://fakerjs.dev/guide/).
+To insert sample data into the database, run `npm run sample count` (`count` parameter is optional, default value is `10`). This will insert `count` entries into the database using [fakerjs](https://fakerjs.dev/guide/).
