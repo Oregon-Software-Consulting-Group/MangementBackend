@@ -1,9 +1,8 @@
-import * as dotenv from "dotenv";
-import express from "express";
-import cors from "cors";
-import mongoose from "mongoose";
+const dotenv = require("dotenv");
+const express = require("express");
+const cors = require("cors");
+const mongoose = require("mongoose");
 
-// Load environment variables from the .env file, where the ATLAS_URI is configured
 dotenv.config();
 
 const { MONGODB_URL } = process.env;
@@ -16,12 +15,21 @@ if (!MONGODB_URL) {
 }
 
 (async () => {
-   await mongoose.connect(MONGODB_URL) 
-})().then(() => {
+  await mongoose.connect(MONGODB_URL);
+})()
+  .then(() => {
     const app = express();
     app.use(cors());
+    app.use(express.json());
 
-    // start the Express server
+    app.get("/health", (req, res) => {
+      res.status(200).json({
+        hello: "world",
+      });
+    });
+
+    app.post("/products/post", (req, res) => {});
+
     app.listen(5200, () => {
       console.log(`Server running at http://localhost:5200...`);
     });
