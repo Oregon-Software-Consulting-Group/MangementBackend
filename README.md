@@ -1,5 +1,9 @@
 # MangementBackend
 
+## Getting Started
+
+Run `npm start` to get the server started locally.
+
 ## DevContainer
 
 If you don't already have node installed on your computer, consider using the [VS Code Dev Container](https://code.visualstudio.com/docs/devcontainers/containers).

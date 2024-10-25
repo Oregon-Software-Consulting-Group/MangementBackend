@@ -1,17 +1,17 @@
 const faker = require("faker");
 
-const { Product } = require("./models/product");
-const { connectDB, disconnectDB } = require("./connectdb")
+const { Product } = require("./src/models/product");
+const { connectDB, disconnectDB } = require("./src/connectdb")
 
 main().catch((err) => console.log(err));
 
-async function main(numProducts=50) {
+async function main(length=50) {
     console.log("Connecting to database...");
     await connectDB()
-    const sampleProducts = Array.from({ length: numProducts }, createSampleProductData);
+    const sampleProduct = Array.from({ length }, createSampleProductData);
     
-    await Product.insertMany(sampleProducts);
-    console.log(`${numProducts} sample products inserted`);
+    await Product.insertMany(sampleProduct);
+    console.log(`${length} sample products inserted`);
 
     await disconnectDB();
     console.log("Database connection closed.");
@@ -19,7 +19,6 @@ async function main(numProducts=50) {
 
 function createSampleProductData() {
   return {
-      StockID: faker.datatype.uuid(),
       Product: {
           ProductID: faker.datatype.uuid(),
           ProductName: faker.commerce.productName(),

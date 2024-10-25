@@ -1,7 +1,11 @@
 const { Schema, model } = require("mongoose");
+const { v4: uuidv4 } = require('uuid');
 
 const productSchema = Schema({
-  StockID: String,
+  _id: {
+    type: String,
+    default: uuidv4,
+  },
   Product: {
     ProductID: String,
     ProductName: String,
