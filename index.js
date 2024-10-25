@@ -1,19 +1,8 @@
-const dotenv = require("dotenv");
 const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 
-dotenv.config();
-
-const { MONGODB_URL } = process.env;
-
-if (!MONGODB_URL) {
-  console.error(
-    "No MONGODB_URL environment variable has been defined in config.env"
-  );
-  process.exit(1);
-}
-
+mongoose.set("strictQuery", false);
 (async () => {
   await mongoose.connect(MONGODB_URL);
 })()
@@ -28,8 +17,10 @@ if (!MONGODB_URL) {
       });
     });
 
-    app.post("/products/post", (req, res) => {});
+    productsRouter = app.route("/products")
 
+    productsRouter.get()
+  
     app.listen(5200, () => {
       console.log(`Server running at http://localhost:5200...`);
     });
