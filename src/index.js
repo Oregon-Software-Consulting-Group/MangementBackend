@@ -1,9 +1,13 @@
 const express = require("express");
 const cors = require("cors");
-const { connectDB } = require("./connectdb")
-const { Product } = require("./models/product")
+const { connectDB } = require("./connectdb");
+const { Product } = require("./models/product");
+const { list } = require("./routes/products/list");
+const { get } = require("./routes/products/get");
+const { post } = require("./routes/products/post");
 
-connectDB().then(() => {
+connectDB()
+  .then(() => {
     const app = express();
     app.use(cors());
     app.use(express.json());
@@ -14,34 +18,10 @@ connectDB().then(() => {
       });
     });
 
-    app.get("/products", (req, res) => {
-      Product.find()
-        .then(products => {
-          res.json(products)
-        })
-        .catch(err => {
-          console.error('Error retrieving products:', err);
-          res.status(500).send('Server error');
-        })
-    
-    })
+    app.get("/products", list);
+    app.post("/products", post)
+    app.get("/products/:uuid", get);
 
-    app.get("/products/:uuid", (req, res) => {
-      const { uuid } = req.params;
-
-      Product.findById(uuid)
-        .then(product => {
-          if (!product) {
-            return res.status(404).send('Product not found');
-          }
-          res.json(product);
-        })
-        .catch(err => {
-          console.error('Error retrieving product:', err);
-          res.status(500).send('Server error');
-        });
-    })
-  
     app.listen(5200, () => {
       console.log(`Server running at http://localhost:5200...`);
     });

@@ -5,7 +5,7 @@ const { connectDB, disconnectDB } = require("./src/connectdb")
 
 const defaultCount = 10
 
-count = defaultCount
+let count = defaultCount
 if (process.argv.length > 2) {
     count = parseInt(process.argv[2]) || defaultCount
 }

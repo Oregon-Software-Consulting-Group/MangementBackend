@@ -1,5 +1,4 @@
-const mongoose = require("mongoose");
-const { Product } = require("../../model/product");
+const { Product } = require("../../models/product");
 const { request, response } = require("express");
 
 /**
