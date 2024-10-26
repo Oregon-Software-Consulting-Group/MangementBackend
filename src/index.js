@@ -19,11 +19,11 @@ connectDB()
     });
 
     app.get("/products", list);
-    app.post("/products", post)
+    app.post("/products", post);
     app.get("/products/:uuid", get);
 
-    app.listen(5200, () => {
-      console.log(`Server running at http://localhost:5200...`);
+    app.listen(process.env.PORT, () => {
+      console.log(`Server running at http://0.0.0.0:${process.env.PORT}...`);
     });
   })
   .catch((error) => console.error(error));

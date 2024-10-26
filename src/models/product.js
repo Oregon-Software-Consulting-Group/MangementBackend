@@ -1,5 +1,5 @@
 const { Schema, model } = require("mongoose");
-const { v4: uuidv4 } = require('uuid');
+const { v4: uuidv4 } = require("uuid");
 
 const productSchema = Schema({
   _id: {
@@ -41,18 +41,7 @@ const productSchema = Schema({
       Subcategories: [
         {
           SubcategoryName: String,
-          Details: {
-            BluetoothVersion: String,
-            BatteryLifeHours: Number,
-            WarrantyMonths: Number,
-          },
-        },
-        {
-          SubcategoryName: String,
-          Details: {
-            CompatibleDevices: [String],
-            WeightGrams: Number,
-          },
+          Details: Schema.Types.Mixed,
         },
       ],
     },
