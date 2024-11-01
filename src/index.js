@@ -6,6 +6,7 @@ const { list } = require("./routes/products/list");
 const { get } = require("./routes/products/get");
 const { post } = require("./routes/products/post");
 const { delete: deleteProduct } = require("./routes/products/delete");
+const { update } = require("./routes/products/update");
 
 connectDB()
   .then(() => {
@@ -18,10 +19,9 @@ connectDB()
       });
     });
 
-    
-
     app.get("/products", list);
     app.post("/products", post);
+    app.post("/products/update", update);
     app.get("/products/:uuid", get);
     app.delete("/products/:uuid", deleteProduct);
 

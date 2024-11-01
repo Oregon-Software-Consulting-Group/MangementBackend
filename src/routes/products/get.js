@@ -1,5 +1,6 @@
 const { Product } = require("../../models/product");
 const { request, response } = require("express");
+const { cleanProduct } = require("../../utils/cleanProduct");
 const logger = require("pino")();
 
 /**
@@ -19,7 +20,9 @@ module.exports.get = async (req, res) => {
       return res.status(404).send("product not found");
     }
 
-    res.status(200).json(product);
+    const cleanedProduct = cleanProduct(product);
+
+    res.status(200).json(cleanedProduct);
   } catch (err) {
     logger
       .child({ ip: req.ip, requested_product_id: uuid, error: err })
