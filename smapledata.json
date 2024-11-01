@@ -1,0 +1,4702 @@
+[
+    {
+      "StockID": "10000",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 34,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-24",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10001",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-10-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10002",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 20,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10003",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 21,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-10-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10004",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-03-19",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10005",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 21,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-03-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10006",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 29,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-26",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10007",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 22,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-04-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10008",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 16,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-06-17",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10009",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 49,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-02-09",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10010",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 14,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-06-26",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10011",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 29,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-02-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10012",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 48,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-31",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10013",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 10,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-03-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10014",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 36,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10015",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 23,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-01-17",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10016",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-08-31",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10017",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 26,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-05-15",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10018",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-02-16",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10019",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-22",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10020",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 37,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-02-04",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10021",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 36,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-05-27",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10022",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-08-15",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10023",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 10,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-04-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10024",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 18,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-03-13",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10025",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 30,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-01-03",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10026",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 31,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-05-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10027",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 40,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-24",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10028",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 21,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-09-29",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10029",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 14,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-02-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10030",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 39,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-06-06",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10031",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 31,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-02-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10032",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 33,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-10-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10033",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 20,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-04-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10034",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 20,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-05-24",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10035",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 22,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-01-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10036",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-29",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10037",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-04-08",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10038",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 13,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-29",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10039",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 45,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-05-13",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10040",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-05-30",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10041",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 48,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-06-09",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10042",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10043",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 44,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-13",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10044",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 42,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-11",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10045",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 41,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-08-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10046",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 17,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-22",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10047",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 37,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-10-07",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10048",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 32,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-07-24",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10049",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 26,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-08-20",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10050",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 22,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-06-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10051",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 26,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-10-17",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10052",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 38,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-10-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10053",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 43,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-01-09",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10054",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 12,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-10-15",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10055",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 50,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-02-22",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10056",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 14,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10057",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-02-07",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10058",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 22,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-01-03",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10059",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 21,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-01-31",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10060",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 26,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10061",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 16,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-08-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10062",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 40,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-04-27",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10063",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 13,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-03-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10064",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 46,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-10-15",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10065",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 47,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-03-19",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10066",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 10,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-31",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10067",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 48,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-10",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10068",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 12,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-02-27",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10069",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 19,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-09-16",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10070",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 47,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-09-02",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10071",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 27,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-19",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10072",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 33,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-07-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10073",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 36,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-02-11",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10074",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 38,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-02-09",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10075",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 12,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-10-27",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10076",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 19,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-08-12",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10077",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 50,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-06-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10078",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 16,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-04-27",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10079",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 30,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-19",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10080",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-05-17",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10081",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-07-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10082",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 19,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10083",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 30,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10084",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 23,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-04-21",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10085",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 18,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-12",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10086",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 40,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-05-23",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10087",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-05-07",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10088",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 44,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-03-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10089",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 30,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-09-15",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10090",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-04-16",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10091",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 28,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-03-09",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10092",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 31,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-10-02",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10093",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 20,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-05-16",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10094",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 49,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-07-28",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10095",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 25,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-06-18",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10096",
+      "Product": {
+        "ProductID": "P003",
+        "ProductName": "Gaming Console",
+        "QuantityAvailable": 60,
+        "Stats": {
+          "ReorderLevel": 15,
+          "QuantityOnOrder": 40,
+          "CostPerUnit": 299.99,
+          "LastRestockedDate": "2024-06-02",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH103",
+        "Region": "Asia",
+        "Location": {
+          "Aisle": "D1",
+          "Bin": "E8"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S7890",
+        "SupplierName": "GameSupplies Ltd.",
+        "Contact": {
+          "Phone": "+81-3-1234-5678",
+          "Email": "support@gamesupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Gaming",
+              "Details": {
+                "StorageCapacityGB": 512,
+                "ControllerType": "Wireless",
+                "WarrantyMonths": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10097",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 36,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-01-14",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10098",
+      "Product": {
+        "ProductID": "P001",
+        "ProductName": "Wireless Headphones",
+        "QuantityAvailable": 150,
+        "Stats": {
+          "ReorderLevel": 30,
+          "QuantityOnOrder": 10,
+          "CostPerUnit": 59.99,
+          "LastRestockedDate": "2024-06-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH101",
+        "Region": "North America",
+        "Location": {
+          "Aisle": "A2",
+          "Bin": "B10"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S6789",
+        "SupplierName": "TechSupplies Inc.",
+        "Contact": {
+          "Phone": "+1-800-123-4567",
+          "Email": "support@techsupplies.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Audio",
+              "Details": {
+                "BluetoothVersion": "5.0",
+                "BatteryLifeHours": 20,
+                "WarrantyMonths": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "StockID": "10099",
+      "Product": {
+        "ProductID": "P002",
+        "ProductName": "Smart TV 55\"",
+        "QuantityAvailable": 80,
+        "Stats": {
+          "ReorderLevel": 20,
+          "QuantityOnOrder": 48,
+          "CostPerUnit": 499.99,
+          "LastRestockedDate": "2024-10-01",
+          "ExpirationDate": null,
+          "StockStatus": "Available"
+        }
+      },
+      "Warehouse": {
+        "WarehouseID": "WH102",
+        "Region": "Europe",
+        "Location": {
+          "Aisle": "B5",
+          "Bin": "C12"
+        }
+      },
+      "Supplier": {
+        "SupplierID": "S3456",
+        "SupplierName": "GlobalTech Suppliers",
+        "Contact": {
+          "Phone": "+44-20-1234-5678",
+          "Email": "info@globaltech.com"
+        }
+      },
+      "Categories": [
+        {
+          "CategoryName": "Electronics",
+          "Subcategories": [
+            {
+              "SubcategoryName": "Home Entertainment",
+              "Details": {
+                "Resolution": "4K",
+                "ScreenType": "LED",
+                "WarrantyMonths": 24
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
