@@ -19,6 +19,8 @@ connectDB()
       });
     });
 
+    
+
     app.get("/products", list);
     app.post("/products", post);
     app.get("/products/:uuid", get);
